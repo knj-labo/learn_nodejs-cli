@@ -12,5 +12,8 @@
     "url": "git@github-private:knj-labo/learn_nodejs-cli.git"
   },
   "author": "jp-knj",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "9.0.0"
+  }
 }
