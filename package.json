@@ -1,0 +1,15 @@
+{
+  "name": "quizme",
+  "version": "0.0.2",
+  "description": "a application for spaced repetition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-private:knj-labo/learn_nodejs-cli.git"
+  },
+  "author": "jp-knj",
+  "license": "MIT"
+}
